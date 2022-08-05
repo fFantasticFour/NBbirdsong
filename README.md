@@ -7,4 +7,4 @@ The file 'just_generate_dataset' will download every example of an input bird sp
 
 ![Template_process(1)(1)](https://user-images.githubusercontent.com/47158858/183220145-003a8fd8-4fe8-4d16-abd3-c45c73104722.png)
 
-The file 'just_model' will take in the dataset you created, and make a CNN model for it. Finally, the file 'just_predict' will take in a recording that you input, process it, and out put the call count and call times for the species you trained for!
+The file 'just_model' will take in the dataset you created, and make a CNN model for it. Finally, the file 'just_predict' will take in a recording, process it, and output the call count and call times for the species you trained for!
